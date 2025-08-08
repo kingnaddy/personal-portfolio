@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "AI Health Risk Predictor",
+    "description": "Health-related ml model to predict smoking status using bio-signal data,",
+    "longDescription": "A Machine Learning Model that I contributed to making in a datathon. The model was used to predict the smoker status of individuals using bio-signal data and physiological signal features. The project was evaluated on Area Under the ROC Curve (AUC) between the predicted probability and the observed target.",
+    "image": "/pictures/smokingai.png",
+    "gif": "/pictures/smokingai.png",
+    "technologies": ["Python", "Matplotlib", "Pandas", "Scikit-Learn"],
+    "github": "https://github.com/kingnaddy/Binary-Classification-Model-BTT",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Community Connect",
+    "description": "Cross-platform mobile app based on location-based volunteer matching for elderly users.",
+    "longDescription": "Developed a proof-of-concept mobile application facilitating assistance requests, leveraging OpenAI's GPT-4 for AI-driven categorization and implementing geolocation features to connect elders with nearby volunteers.",
+    "image": "/pictures/community.png",
+    "gif": "/pictures/community.png",
+    "technologies": ["JavaScript", "React", "React-Native", "Bash"],
+    "github": "https://github.com/kingnaddy/CommunityConnect-BisonHacks",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "XpenseWise",
+    "description": "Expense Tracker & Budgeting Mini-App",
+    "longDescription": "Developed a Python app capable of managing over 100 daily expenses to log, categorize, and track these daily expenses with personalized budget management.",
+    "image": "/pictures/xpense.png",
+    "gif": "/pictures/xpense.png",
+    "technologies": ["Python"],
+    "github": "https://github.com/kingnaddy/XpenseWise",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "title": "Shuri’s Gauntlet – Web-Based Minigame",
+    "description": "A hacker-themed multi-stage web and console minigame built in BisonHacks ",
+    "longDescription": "Shuri’s Gauntlet is a collaborative hackathon project featuring an interactive multi-level game blending web and terminal-based gameplay. Players take on missions with AI companions and complete puzzles or challenges across different interfaces. This hybrid structure teaches programming, logic, and storytelling while simulating a cybersecurity-themed experience",
+    "image": "/pictures/shuri.png",
+    "gif": "/pictures/shuri.png",
+    "technologies": ["React", "Python", "HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/kingnaddy/BisonHacks-Minigame-with-Python-HTML-CSS",
+    "featured": false
+  },
+  {
+  "id": "5",
+  "title": "Book Review Sentiment Classifier",
+  "description": "Bidirectional LSTM–based NLP model to classify book reviews as positive or negative.",
+  "longDescription": "Built an end-to-end sentiment analysis pipeline using Word2Vec embeddings and a Bidirectional LSTM (via TensorFlow Keras) to predict whether a book review is positive. The project covers data cleaning, tokenization, embedding training, model architecture design, and evaluation with accuracy and ROC‐AUC metrics.",
+  "image": "/pictures/bookrev.png",
+  "gif": "/pictures/bookrev.png",
+  "technologies": [
+    "Python",
+    "TensorFlow",
+    "Keras",
+    "Gensim",
+    "Word2Vec",
+    "BiLSTM",
+    "NLP"
+  ],
+  "github": "https://github.com/kingnaddy/Book-Review-Prediction-with-NLP",
+  "featured": false
+  },
+  {
+  "id": "6",
+  "title": "Summer AI Research Project Blog",
+  "description": "Jekyll-powered summer research blog I made to document daily reflections and project insights.",
+  "longDescription": "Built a personal research website with Jekyll and the Minimal theme to chronicle summer AI work: daily learning posts, mentor spotlights, and a detailed project overview. Integrated GitHub Pages for CI/CD, custom SCSS overrides, and multiple layouts (_posts, pages, mentor, project) for a polished, easy-to-navigate blog.",
+  "image": "/pictures/brain.jpeg",
+  "gif": "/pictures/brain.jpeg",
+  "technologies": [
+    "Ruby",
+    "Jekyll",
+    "SCSS",
+    "GitHub Pages"
+  ],
+  "github": "https://github.com/kingnaddy/kingnaddy.github.io/",
+  "featured": false
+  }
+
+
+]
